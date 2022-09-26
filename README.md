@@ -15,5 +15,5 @@
 
 https://user-images.githubusercontent.com/93584464/186225558-1edc9dc2-5adc-47f4-897d-c4959df9515f.mp4
 
-<li>Coded by Idan Klatza, Ray Frenkel, Maya Keren, Amit Halfon.</li>
+<li>Encoded by Idan Klatza, Ray Frenkel, Maya Keren, Amit Halfon.</li>
 
